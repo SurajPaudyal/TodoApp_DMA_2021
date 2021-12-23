@@ -1,0 +1,17 @@
+com/example/todoapp/Todo.java
+ com.example.todoapp.Todo
+com/example/todoapp/BuildConfig.java
+ com.example.todoapp.BuildConfig
+com/example/todoapp/MainActivity.java
+ com.example.todoapp.MainActivity
+com/example/todoapp/TodoAdapter.java
+ com.example.todoapp.TodoAdapter
+ com.example.todoapp.TodoAdapter$ViewHolder
+com/example/todoapp/Repository.java
+ com.example.todoapp.Repository
+com/example/todoapp/TodosListFragment.java
+ com.example.todoapp.TodosListFragment
+ com.example.todoapp.TodosListFragment$1
+com/example/todoapp/AddTodoFragment.java
+ com.example.todoapp.AddTodoFragment
+ com.example.todoapp.AddTodoFragment$1
