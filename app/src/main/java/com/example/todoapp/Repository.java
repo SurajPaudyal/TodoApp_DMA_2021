@@ -17,8 +17,8 @@ public class Repository {
         todos = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Todo todo = new Todo();
-            todo.setTitle("title" + i);
-            todo.setDescription("descrption" + i);
+            todo.setTitle("Title " + i);
+            todo.setDescription("Descrption" + i);
             todo.setPriority(1);
             todos.add(todo);
         }

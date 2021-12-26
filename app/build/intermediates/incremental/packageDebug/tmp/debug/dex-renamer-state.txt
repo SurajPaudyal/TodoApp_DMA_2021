@@ -1,4 +1,4 @@
-#Sun Dec 26 22:18:12 NPT 2021
+#Sun Dec 26 23:29:41 NPT 2021
 base.2=E\:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 path.2=1/classes.dex
 base.1=E\:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
