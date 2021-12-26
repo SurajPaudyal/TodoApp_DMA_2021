@@ -1,9 +1,9 @@
-#Sun Dec 26 21:28:36 NPT 2021
-base.2=E\:\\Users\\baris\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+#Sun Dec 26 22:18:12 NPT 2021
+base.2=E\:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 path.2=1/classes.dex
-base.1=E\:\\Users\\baris\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=E\:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=E\:\\Users\\baris\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=E\:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

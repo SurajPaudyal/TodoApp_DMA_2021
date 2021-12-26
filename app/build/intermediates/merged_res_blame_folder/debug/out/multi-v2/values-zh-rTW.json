@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\baris\\TodoApp_dma_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "outputFile": "E:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
                     "source": "C:\\Users\\baris\\.gradle\\caches\\transforms-3\\9079c9694b4d4270d7cd62242948af25\\transformed\\appcompat-1.4.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
