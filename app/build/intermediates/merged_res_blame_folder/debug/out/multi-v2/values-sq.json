@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\baris\\WorkingDMA\\ALL FILE\\TodoApp_dma_2021\\TodoApp_dma_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "E:\\Users\\baris\\TodoApp_dma_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\baris\\.gradle\\caches\\transforms-3\\21249a56641fb0309777a5ae16ce99ff\\transformed\\core-1.7.0\\res\\values-sq\\values-sq.xml",
